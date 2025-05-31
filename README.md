@@ -39,6 +39,7 @@ This repository contains the Python solution for Day 19 of the HackerRank 30 Day
 ## ✅ Sample Output
 
       I implemented: AdvancedArithmetic
+      
       12
 
 ## 💡 Explanation
